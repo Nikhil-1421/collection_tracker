@@ -1,7 +1,8 @@
-environments/
+/environments
 *.env
+*dev_env.env
 *clean_pycache.sh
 *setup_env.sh
 *vite.config.js
 /.vscode
-
+/dev_env
