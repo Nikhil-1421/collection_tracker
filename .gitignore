@@ -6,3 +6,6 @@
 *vite.config.js
 /.vscode
 /dev_env
+/*.DS_Store
+*.DS_Store
+new_checklists.egg-info/
