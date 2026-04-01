@@ -11,3 +11,4 @@ tests/unittests/__init__.py
 utils/__init__.py
 utils/common.py
 utils/connections.py
+utils/excel_loader.py
